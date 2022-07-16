@@ -1,6 +1,6 @@
 # **Тестовое задание DomProg**
 
-Результат работы можно посмотреть [здесь](https://revesoid.github.io/test-molnia/users)
+Результат работы можно посмотреть [здесь](https://reversoid.github.io/test-books)
 
 Суть приложения: можно добавлять в список книги, изменять данные книг в этом списке. Используется Angular Material. Данные хранятся в localstorage. Стейт-менеджер NgRx.  
 
